@@ -16,7 +16,7 @@ It helps in understanding business performance through clean visuals, KPIs, and 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/robinsharma00007-arch/Excel-Superstore-Dashboard-RobinSharma/main/Superstore%20Dashboard%20Image.png)
+![Dashboard](https://github.com/robinsharma00007-arch/Excel-Superstore-Dashboard-RobinSharma/blob/main/Screenshot%202025-11-27%20135121.png)
 
 ---
 
