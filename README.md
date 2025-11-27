@@ -10,7 +10,7 @@ Welcome to the *Superstore Excel Dashboard*! This interactive dashboard provides
 - *Real-World Dataset:* Use of actual sales data for practical business analysis experience.
 
 ## Screenshots
-https://github.com/robinsharma00007-arch/Excel-Superstore-Dashboard-RobinSharma/blob/main/Screenshot%202025-11-27%20135121.png
+(https://github.com/robinsharma00007-arch/Excel-Superstore-Dashboard-RobinSharma/blob/main/Screenshot%202025-11-27%20135121.png)
 
 
 
