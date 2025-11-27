@@ -55,7 +55,7 @@ Demonstrating Excel skills to recruiters and hiring managers
 
 📷 Dashboard Preview
 
-(Add your image link here)
+
 
 ![Dashboard](https://raw.githubusercontent.com/robinsharma00007-arch/Excel-Superstore-Dashboard-RobinSharma/main/Superstore%20Dashboard%20Image.png)
 
